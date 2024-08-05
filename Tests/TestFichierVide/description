@@ -1,0 +1,2 @@
+Ce test lance une exécution classique du programme sur deux fichiers dont l'un est vide.
+Cela ne provoque pas d'erreur, il est simplement ignoré.

@@ -1,0 +1,1 @@
+../../bin/analog -g graphe.dot -e -t 12 ../../LogFilesTests/log1.log

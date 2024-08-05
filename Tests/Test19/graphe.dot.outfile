@@ -1,0 +1,26 @@
+digraph {
+    "-" -> "/temps/4IF44.html" [label="1"];
+    "-" -> "/temps/GO.ics" [label="1"];
+    "-" -> "/notesif/RSS/RSS_3IF.xml" [label="1"];
+    "/temps/" -> "/temps/3IF37.html" [label="1"];
+    "-" -> "/temps/3IF2.ics" [label="1"];
+    "/temps/3IF37.html" -> "/temps/3IF38.html" [label="1"];
+    "-" -> "/notesif/" [label="4"];
+    "-" -> "/temps/4IF4.ics" [label="2"];
+    "-" -> "/temps/4IF3.ics" [label="2"];
+    "www.google.com/gwt/x" -> "/temps/" [label="1"];
+    "www.google.fr/url" -> "/temps/" [label="1"];
+    "-" -> "/temps/3IF1.ics" [label="5"];
+    "-" -> "/temps/3IF44.html" [label="1"];
+    "if.insa-lyon.fr/" -> "/SiteWebIF/Intranet-etudiant.php" [label="8"];
+    "-" -> "/SiteWebIF/Intranet-etudiant.php" [label="10"];
+    "-" -> "/" [label="1"];
+    "-" -> "/notesif" [label="4"];
+    "/SiteWebIF/Intranet-etudiant.php" -> "/stages/Listestage.php" [label="1"];
+    "/temps/3IF38.html" -> "/temps/3IF39.html" [label="1"];
+    "/temps/3IF39.html" -> "/temps/3IF40.html" [label="1"];
+    "-" -> "/temps/4IF1.ics" [label="2"];
+    "/temps/3IF37.html" -> "/temps/index.html" [label="1"];
+    "/stages/Listestage.php" -> "/stages/descriptif/MEDIAL.pdf" [label="1"];
+    "/notesif/RSS/RSS_4IF.xml" -> "/notesif/RSS/RSS_4IF.xml" [label="1"];
+}

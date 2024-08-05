@@ -1,0 +1,7 @@
+Ce test lance une exécution classique du programme sur un fichier de 8 lignes de log.
+3 de ces 8 lignes ont été volontairement altérées pour changer le format des données.
+Ligne 2 - Crochets autour de la date retirés
+Ligne 4 - Code retour inexistant
+Ligne 7 - Espace au sein de l'IP
+
+Toute altération, même minime, du format initial des données est détecté par le programme et un avertissement pour chaque ligne est affiché dans cerr (et ces lignes ne sont pas prises en compte).

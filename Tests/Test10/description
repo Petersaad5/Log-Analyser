@@ -1,0 +1,1 @@
+Dans ce test, on lance le programme avec un fichier journal contenant des journaux ayant la même popularité : lorsque le 10e et le 11e ont la même popularité, le programme affiche les 10e et 11e a la 10eme position.

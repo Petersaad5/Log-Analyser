@@ -1,0 +1,2 @@
+Ce test lance l'executable avec un paramètre attendant une valeur complémentaire.
+Dans ce cas, l'option -t est ajouté sans spécifier d'heure après.

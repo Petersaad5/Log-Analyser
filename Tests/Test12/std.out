@@ -1,0 +1,10 @@
+Usage: analog [OPTION]... [FILE]...
+
+Options:
+  -h, --help                           Print this help
+  -g, --graph <FILE>                   Write GraphViz format graph of analyzed graph to a file
+  -e, --exclude-special-extensions     Exclude logs to urls with extensions defined in config file
+  -t, --time <HOUR>                    Only consider logs in the time interval [hour, hour+1[
+  -l, --limit <NUMBER>                 Choose the number of line displayed in most consulted urls (default 10)
+  -p, --progress                       Show a progress bar during file reading
+  
